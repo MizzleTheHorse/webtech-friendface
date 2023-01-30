@@ -1,4 +1,4 @@
-# Assignment 3: Friendface
+# Friendface
 
 
 In this assignment, you must implement a minimal version of a popular social network. We call this application: Friendface.
