@@ -1,8 +1,5 @@
 # Friendface
 
-
-In this assignment, you must implement a minimal version of a popular social network. We call this application: Friendface.
-
 Friendface is an application where registered users can post, while other registered users can interact with these posts by giving them a *like*.
 ## Setup
 
